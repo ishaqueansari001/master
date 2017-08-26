@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: mychattingapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mohammed.A
+Implementation-Vendor-Id: mychattingapp
+Build-Jdk: 1.8.0_40
+Implementation-URL: http://projects.spring.io/spring-boot/mychattingap
+ p/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
